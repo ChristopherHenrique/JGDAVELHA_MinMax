@@ -1,0 +1,1 @@
+# JGDAVELHA_MinMax
